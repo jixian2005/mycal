@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="mycal:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mycal_jar</output-path>
+    <root id="archive" name="mycal.jar">
+      <element id="module-output" name="mycal" />
+    </root>
+  </artifact>
+</component>
